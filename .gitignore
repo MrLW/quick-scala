@@ -1,0 +1,12 @@
+
+.metadata/.lock
+.metadata/.log
+.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs
+.metadata/.plugins/org.eclipse.jdt.core/index.db
+.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml
+.metadata/version.ini
+.metadata/.plugins/org.scala-ide.sdt.core/scala-ide.log
+.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt
+.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs
+.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index
+/.metadata/
